@@ -66,26 +66,14 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
-    "defaultZoomLevel": "none",
+     "defaultZoomLevel": "none",
     "zoomlevels": {
         "none": 100,
         "medium": 110,
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://moodle.cxcstudyacademy.com",
     "sitename": "",
     "multisitesdisplay": "",
     "sitefindersettings": {},
